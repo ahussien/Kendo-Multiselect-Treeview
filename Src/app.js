@@ -4,11 +4,10 @@
 angular.module('app', ['ngKendoMultiselectDropdownTree'])
     .controller('TestController', function($scope){
 
-        var serviceRoot = "http://demos.telerik.com/kendo-ui/service";
-        var homogeneous = new kendo.data.HierarchicalDataSource({
+        var dataSource = new kendo.data.HierarchicalDataSource({
             transport: {
                 read: {
-                    url: serviceRoot + "/Employees",
+                    url: "http://demos.telerik.com/kendo-ui/service/Employees",
                     dataType: "jsonp"
                 }
             },
@@ -20,22 +19,19 @@ angular.module('app', ['ngKendoMultiselectDropdownTree'])
             }
         });
 
-
         $scope.categoriesMultiSelectOptions = {
             placeholder: "Select a value...",
             output: "FullName",
             treeview: {
-                dataSource: homogeneous,
+                dataSource: dataSource,
                 dataTextField: "FullName"
             },
-            dataValueField: "EmployeeId",
-            dataTextField: "FullName"
-
+            dataValueField: "ID",
+            dataTextField: "Name"
         };
 
-
         $scope.categories =  [
-            { FullName: "Chang", EmployeeId: 2 },
-            { FullName: "Uncle Bob's Organic Dried Pears", EmployeeId: 7 }
+            { Name: "Chang", ID: 2 },
+            { Name: "Uncle Bob's Organic Dried Pears", ID: 7 }
         ];
     });

@@ -1,5 +1,4 @@
-﻿/// <version>2013.04.14</version>
-/// <summary>Works with the Kendo UI 2013 Q1 and jQuery 1.9.1</summary>
+﻿/// <summary>Works with the Kendo UI 2014.1.318 and jQuery 1.11.2</summary>
 (function (kendo, $) {
     var ExtMultiSelectTreeView = kendo.ui.Widget.extend({
         _uid: null,
