@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c773878f-fa01-49ae-9a3f-0ab97c9b66a9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Src/ngMultiselectDropdownTree.css" afterPath="$PROJECT_DIR$/Src/ngMultiselectDropdownTree.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Src/template.html" afterPath="$PROJECT_DIR$/Src/template.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Kendo-Multiselect-Treeview.iws" />
@@ -26,85 +28,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Src/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#40#0" expanded="false" />
-                <element signature="e#215#591#0" expanded="false" />
-                <element signature="e#641#919#0" expanded="false" />
-                <element signature="e#951#1063#0" expanded="false" />
-              </folding>
-            </state>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Src/demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923" vertical-offset="102" max-vertical-offset="510">
-              <caret line="13" column="77" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="77" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ngMultiselectDropdownTree.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Src/ngMultiselectDropdownTree.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1207">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-              <folding>
-                <element signature="e#1615#1704#0" expanded="false" />
-                <element signature="e#1759#2040#0" expanded="false" />
-                <element signature="e#2095#2172#0" expanded="false" />
-                <element signature="e#2224#2321#0" expanded="false" />
-                <element signature="e#2374#2472#0" expanded="false" />
-                <element signature="e#2520#4618#0" expanded="false" />
-                <element signature="e#3833#3864#0" expanded="false" />
-                <element signature="e#3921#4085#0" expanded="false" />
-                <element signature="e#4143#4229#0" expanded="false" />
-                <element signature="e#4267#4495#0" expanded="false" />
-                <marker date="1419698556657" expanded="true" signature="2688:2698" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kendo.ext.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Src/kendo.ext.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1173">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#2016#2062#0" expanded="false" />
-                <element signature="e#2095#2141#0" expanded="false" />
-                <element signature="e#2190#2863#0" expanded="false" />
-                <element signature="e#2897#2908#0" expanded="false" />
-                <element signature="e#2928#2982#0" expanded="false" />
-                <marker date="1419699012330" expanded="true" signature="572:582" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ngMultiselectDropdownTree.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Src/ngMultiselectDropdownTree.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48320413" vertical-offset="0" max-vertical-offset="387">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Src/template.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="221">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.1827957" vertical-offset="0" max-vertical-offset="372">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -121,11 +52,12 @@
         <option value="$PROJECT_DIR$/Src/wewe.js" />
         <option value="$PROJECT_DIR$/Src/kendo.web.ext.js" />
         <option value="$PROJECT_DIR$/Src/ngTagEditor.css" />
-        <option value="$PROJECT_DIR$/Src/ngMultiselectDropdownTree.css" />
         <option value="$PROJECT_DIR$/Src/ngMultiselectDropdownTree.js" />
         <option value="$PROJECT_DIR$/Src/demo.html" />
         <option value="$PROJECT_DIR$/Src/app.js" />
         <option value="$PROJECT_DIR$/Src/kendo.ext.js" />
+        <option value="$PROJECT_DIR$/Src/template.html" />
+        <option value="$PROJECT_DIR$/Src/ngMultiselectDropdownTree.css" />
       </list>
     </option>
   </component>
@@ -313,7 +245,13 @@
       <option name="project" value="LOCAL" />
       <updated>1419699019300</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Creating First File">
+      <created>1419699031700</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1419699031700</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -375,17 +313,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
-          <caret line="3" column="86" selection-start-line="3" selection-start-column="86" selection-end-line="3" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Src/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
@@ -399,10 +326,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Src/demo.html">
+    <entry file="file://$PROJECT_DIR$/Src/ngMultiselectDropdownTree.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923" vertical-offset="102" max-vertical-offset="510">
-          <caret line="13" column="77" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="77" />
+        <state vertical-scroll-proportion="0.0425" vertical-offset="0" max-vertical-offset="1207">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding>
+            <element signature="e#1615#1704#0" expanded="false" />
+            <element signature="e#1759#2040#0" expanded="false" />
+            <element signature="e#2095#2172#0" expanded="false" />
+            <element signature="e#2224#2321#0" expanded="false" />
+            <element signature="e#2374#2472#0" expanded="false" />
+            <element signature="e#2520#4618#0" expanded="false" />
+            <element signature="e#3833#3864#0" expanded="false" />
+            <element signature="e#3921#4085#0" expanded="false" />
+            <element signature="e#4143#4229#0" expanded="false" />
+            <element signature="e#4267#4495#0" expanded="false" />
+            <marker date="1419698556657" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Src/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Src/ngMultiselectDropdownTree.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30749354" vertical-offset="0" max-vertical-offset="387">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -417,43 +372,26 @@
             <element signature="e#2190#2863#0" expanded="false" />
             <element signature="e#2897#2908#0" expanded="false" />
             <element signature="e#2928#2982#0" expanded="false" />
-            <marker date="1419699012330" expanded="true" signature="572:582" placeholder="..." />
+            <marker date="1419699012330" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Src/template.html">
+    <entry file="file://$PROJECT_DIR$/Src/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="221">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.3181818" vertical-offset="102" max-vertical-offset="510">
+          <caret line="13" column="77" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="77" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Src/ngMultiselectDropdownTree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1207">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding>
-            <element signature="e#1615#1704#0" expanded="false" />
-            <element signature="e#1759#2040#0" expanded="false" />
-            <element signature="e#2095#2172#0" expanded="false" />
-            <element signature="e#2224#2321#0" expanded="false" />
-            <element signature="e#2374#2472#0" expanded="false" />
-            <element signature="e#2520#4618#0" expanded="false" />
-            <element signature="e#3833#3864#0" expanded="false" />
-            <element signature="e#3921#4085#0" expanded="false" />
-            <element signature="e#4143#4229#0" expanded="false" />
-            <element signature="e#4267#4495#0" expanded="false" />
-            <marker date="1419698556657" expanded="true" signature="2688:2698" placeholder="..." />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Src/ngMultiselectDropdownTree.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48320413" vertical-offset="0" max-vertical-offset="387">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.1827957" vertical-offset="0" max-vertical-offset="372">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
