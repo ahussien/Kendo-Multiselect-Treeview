@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <style>
+        body{background-color:#fff;}
+        form{width:600px;margin:15% auto;}
+    </style>
+    <link rel="stylesheet" href="ngMultiselectDropdownTree.css" type="text/css"/>
+    <link rel="stylesheet" href="http://cdn.kendostatic.com/2014.1.318/styles/kendo.common.min.css" type="text/css"/>
+    <link rel="stylesheet" href="http://cdn.kendostatic.com/2014.1.318/styles/kendo.metro.min.css" type="text/css"/>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script type="text/javascript" src="http://cdn.jsdelivr.net/angularjs/1.2.17/angular.min.js"></script>
+    <script type="text/javascript" src="http://cdn.kendostatic.com/2014.1.318/js/kendo.all.min.js"></script>
+    <script type="text/javascript" src="kendo.ext.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+    <script type="text/javascript" src="ngMultiselectDropdownTree.js"></script>
+</head>
+<body>
+<form ng-controller="TestController">
+    <tag-editor ng-model="categories" options="categoriesMultiSelectOptions"></tag-editor>
+    <span class="log">{{categories}}</span>
+</form>
+</body>
+</html>
