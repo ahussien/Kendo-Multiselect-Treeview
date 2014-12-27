@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c773878f-fa01-49ae-9a3f-0ab97c9b66a9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Src/app.js" afterPath="$PROJECT_DIR$/Src/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Src/kendo.ext.js" afterPath="$PROJECT_DIR$/Src/kendo.ext.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Kendo-Multiselect-Treeview.iws" />
@@ -309,7 +307,13 @@
       <option name="project" value="LOCAL" />
       <updated>1419698826876</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Creating First File">
+      <created>1419699019300</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1419699019300</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
