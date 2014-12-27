@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c773878f-fa01-49ae-9a3f-0ab97c9b66a9" name="Default" comment="Creating First File">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Src/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Src/kendo.ext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Src/ngMultiselectDropdownTree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Src/ngMultiselectDropdownTree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Src/template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Src/app.js" afterPath="$PROJECT_DIR$/Src/app.js" />
+    <list default="true" id="c773878f-fa01-49ae-9a3f-0ab97c9b66a9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Src/demo.html" afterPath="$PROJECT_DIR$/Src/demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Src/kendo.ext.js" afterPath="$PROJECT_DIR$/Src/kendo.ext.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Src/ngMultiselectDropdownTree.js" afterPath="$PROJECT_DIR$/Src/ngMultiselectDropdownTree.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Kendo-Multiselect-Treeview.iws" />
@@ -31,94 +28,7 @@
     <favorites_list name="Kendo-Multiselect-Treeview" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
-              <caret line="3" column="86" selection-start-line="3" selection-start-column="86" selection-end-line="3" selection-end-column="86" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Src/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#40#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Src/demo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3315508" vertical-offset="63" max-vertical-offset="510">
-              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ngMultiselectDropdownTree.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Src/ngMultiselectDropdownTree.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ngMultiselectDropdownTree.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Src/ngMultiselectDropdownTree.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.444445" vertical-offset="0" max-vertical-offset="1802">
-              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#40#0" expanded="false" />
-                <element signature="e#143#321#0" expanded="false" />
-                <element signature="e#344#1068#0" expanded="false" />
-                <element signature="e#403#1062#0" expanded="false" />
-                <element signature="e#424#1051#0" expanded="false" />
-                <marker date="1419698097736" expanded="true" signature="2728:2738" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Src/template.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="221">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kendo.ext.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Src/kendo.ext.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2550">
-              <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
-              <folding>
-                <element signature="e#359#1282#0" expanded="false" />
-                <element signature="e#1329#2250#0" expanded="false" />
-                <marker date="1419697940974" expanded="true" signature="2845:2855" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -128,11 +38,12 @@
       <list>
         <option value="$PROJECT_DIR$/Src/wewe.js" />
         <option value="$PROJECT_DIR$/Src/app.js" />
-        <option value="$PROJECT_DIR$/Src/ngMultiselectDropdownTree.js" />
         <option value="$PROJECT_DIR$/Src/kendo.web.ext.js" />
         <option value="$PROJECT_DIR$/Src/ngTagEditor.css" />
         <option value="$PROJECT_DIR$/Src/ngMultiselectDropdownTree.css" />
+        <option value="$PROJECT_DIR$/Src/ngMultiselectDropdownTree.js" />
         <option value="$PROJECT_DIR$/Src/demo.html" />
+        <option value="$PROJECT_DIR$/Src/kendo.ext.js" />
       </list>
     </option>
   </component>
@@ -302,12 +213,18 @@
       <option name="project" value="LOCAL" />
       <updated>1419674174259</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Creating First File">
+      <created>1419698242474</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1419698242474</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="730" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -320,7 +237,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24450952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24450952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -385,17 +302,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Src/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="221">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Src/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.692307" vertical-offset="63" max-vertical-offset="510">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Src/ngMultiselectDropdownTree.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.444445" vertical-offset="0" max-vertical-offset="1802">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        <state vertical-scroll-proportion="-21.407408" vertical-offset="0" max-vertical-offset="1173">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
           <folding>
             <element signature="e#0#40#0" expanded="false" />
-            <element signature="e#143#321#0" expanded="false" />
-            <element signature="e#344#1068#0" expanded="false" />
-            <element signature="e#403#1062#0" expanded="false" />
-            <element signature="e#424#1051#0" expanded="false" />
-            <marker date="1419698097736" expanded="true" signature="2728:2738" placeholder="..." />
+            <element signature="e#1615#1704#0" expanded="false" />
+            <element signature="e#1759#2040#0" expanded="false" />
+            <element signature="e#2095#2172#0" expanded="false" />
+            <element signature="e#2224#2321#0" expanded="false" />
+            <element signature="e#2374#2472#0" expanded="false" />
+            <element signature="e#2520#4618#0" expanded="false" />
+            <element signature="e#3833#3864#0" expanded="false" />
+            <element signature="e#3921#4085#0" expanded="false" />
+            <element signature="e#4143#4229#0" expanded="false" />
+            <element signature="e#4267#4495#0" expanded="false" />
+            <marker date="1419698556657" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -408,31 +347,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Src/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="221">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Src/kendo.ext.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2163" max-vertical-offset="2550">
-          <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.34108528" vertical-offset="769" max-vertical-offset="1190">
+          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
           <folding>
-            <element signature="e#359#1282#0" expanded="false" />
-            <element signature="e#1329#2250#0" expanded="false" />
-            <marker date="1419697940974" expanded="true" signature="2845:2855" placeholder="..." />
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#2046#2092#0" expanded="false" />
+            <element signature="e#2125#2171#0" expanded="false" />
+            <element signature="e#2220#2893#0" expanded="false" />
+            <element signature="e#2927#2938#0" expanded="false" />
+            <element signature="e#2958#3012#0" expanded="false" />
+            <marker date="1419698797820" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Src/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3315508" vertical-offset="63" max-vertical-offset="510">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>

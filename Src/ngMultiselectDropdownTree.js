@@ -33,7 +33,7 @@ angular.module('ngKendoMultiselectDropdownTree', [])
         }
     ])
 
-    .directive('tagEditor', function() {
+    .directive('multiselectDropdownTree', function() {
         return {
             restrict: 'AE',
             scope: {
@@ -57,8 +57,6 @@ angular.module('ngKendoMultiselectDropdownTree', [])
 
                         $scope.tags.push(tag);
                         $scope.$apply();
-
-                        // console.log($scope.tags);
                     };
 
                     $scope.remove = function(index) {
@@ -94,8 +92,6 @@ angular.module('ngKendoMultiselectDropdownTree', [])
                                     var selectedFolderId = dataItem.id;
                                     console.log(dataItem);
                                     $scope.add(dataItem.id, dataItem[$scope.options.treeview.dataTextField]);
-
-                                    console.log($(e.node).children("div"));
                                 });
                             };
 
