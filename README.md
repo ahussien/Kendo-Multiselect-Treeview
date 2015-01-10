@@ -33,7 +33,7 @@ JS
 
 ## Add the directive tag to the html page and set the model and options
 
-`<multiselect-dropdown-tree ng-model="categories" options="multiSelectOptions"></multiselect-dropdown-tree>`
+`<multiselect-dropdown-tree ng-model="categories" options="categoriesMultiSelectOptions"></multiselect-dropdown-tree>`
 
 
 ##  Add the ngKendoMultiselectDropdownTree module to the main module and initialize the model
