@@ -31,13 +31,12 @@ JS
 
 ## Usage
 
-### Basic usage
-1. Add the directive tag to the html page and set the model and options
+## Add the directive tag to the html page and set the model and options
 
 `<multiselect-dropdown-tree ng-model="categories" options="multiSelectOptions"></multiselect-dropdown-tree>`
 
 
-2. Add the ngKendoMultiselectDropdownTree module to the main module and initialize the model
+##  Add the ngKendoMultiselectDropdownTree module to the main module and initialize the model
 ```javascript
 var app = angular.module('app', ['ngKendoMultiselectDropdownTree']);
 app.controller('TestController', function($scope, $http) {
@@ -47,7 +46,7 @@ app.controller('TestController', function($scope, $http) {
 	{"Name":"Janet Leverling","ID":3}]
 });
    ```
-3. configure the options
+## configure the options
 ```javascript
  var dataSource = new kendo.data.HierarchicalDataSource({
             transport: {
