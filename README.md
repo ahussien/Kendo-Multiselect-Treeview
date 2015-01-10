@@ -33,6 +33,7 @@ JS
 
 ### Basic usage
 1. Add the directive tag to the html page and set the model and options
+
 `<multiselect-dropdown-tree ng-model="categories" options="multiSelectOptions"></multiselect-dropdown-tree>`
 
 
@@ -75,12 +76,6 @@ app.controller('TestController', function($scope, $http) {
             dataValueField: "ID",  // this representing the value field for tye model and this will be extracted from selected tree node Id
             dataTextField: "Name"  // this representing  the test field for the model and this will be be extracted  from selected tree node text
         };
-```
-
-```html
-<form ng-controller="RandomController">
-	<tag-editor ng-model="tags" output="name"></tag-editor>
-</form>
 ```
 
 ## Exemple
