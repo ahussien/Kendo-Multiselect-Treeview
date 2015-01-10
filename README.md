@@ -79,4 +79,4 @@ app.controller('TestController', function($scope, $http) {
 
 ## Exemple
 
-See `demo.html`
+See `index.html`
