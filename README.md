@@ -5,7 +5,7 @@ A MultiSelect dropdown tree for kenod UI , the user can select one item from the
 
 ## Demo
 
-See the live demo page [here](http://varyoo.github.io/ngTagEditor).
+See the live demo page [here](http://ahussien.github.io/Kendo-Multiselect-Treeview/).
 
 ## Installation
 
